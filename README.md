@@ -1,1 +1,1 @@
-This is my first repository
+This is class work for my CS65 class
